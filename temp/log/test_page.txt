@@ -1,0 +1,1920 @@
+
+---2016-05-26 08:38:13--/index.php?m=article&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4801988601685秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4811990261078秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4811990261078秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4811990261078秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5052008628845秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5052008628845秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5052008628845秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5062007904053秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4811987876892秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4821989536285秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4821989536285秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4831988811493秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4821989536285秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4831988811493秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4831988811493秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4831988811493秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4851989746094秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4851989746094秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4861998558044秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4861998558044秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4641990661621秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4641990661621秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4651989936829秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4651989936829秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4751989841461秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4761991500854秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4761991500854秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4761991500854秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5002000331879秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5002000331879秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5002000331879秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5011999607086秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5001997947693秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5011999607086秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5011999607086秒
+
+---2016-05-26 08:38:13--/index.php?m=article&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5021998882294秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5002000331879秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5011999607086秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5011999607086秒
+
+---2016-05-26 08:38:13--/index.php?m=test&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5011999607086秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5044088363647秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5049088001251秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5054090023041秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5054090023041秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4734079837799秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4739079475403秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4744079113007秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4744079113007秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5214111804962秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5219111442566秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.522411108017秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.522411108017秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5224120616913秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5229120254517秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.523411989212秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5239119529724秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4879097938538秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4884099960327秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4889099597931秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4889099597931秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5144121646881秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5149121284485秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5154120922089秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5159120559692秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4979109764099秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4984109401703秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4984109401703秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4989120960236秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5144131183624秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5149130821228秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5154130458832秒
+
+---2016-05-26 08:38:16--/index.php?m=test10&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5159130096436秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5314130783081秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5319139957428秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5319139957428秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5474150180817秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5324141979218秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.547914981842秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.547914981842秒
+
+---2016-05-26 08:38:16--/index.php?m=test1&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5484149456024秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4674401283264秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4679400920868秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4684400558472秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4684400558472秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5094451904297秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5099451541901秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5104451179504秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5109460353851秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5129461288452秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5134460926056秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5134460926056秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.513946056366秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5184469223022秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5189468860626秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.519446849823秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.519446849823秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.509446144104秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5099461078644秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5099461078644秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5104460716248秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.50794506073秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5084450244904秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5089449882507秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5089449882507秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5474500656128秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5484499931335秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5489499568939秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5494499206543秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5294489860535秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5299491882324秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5304491519928秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5304491519928秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.519947052002秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.543949842453秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5204470157623秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5209472179413秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.544450044632秒
+
+---2016-05-26 08:38:20--/index.php?m=test12&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5214471817017秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5449500083923秒
+
+---2016-05-26 08:38:20--/index.php?m=test11&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5454499721527秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.55695104599秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5574510097504秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5579521656036秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.558452129364秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5459501743317秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.546450138092秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.546450138092秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5469501018524秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5799548625946秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5804550647736秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5804550647736秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5809550285339秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5714540481567秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5719540119171秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5719540119171秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5724539756775秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5899560451508秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5904560089111秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5909562110901秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5909562110901秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5924561023712秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5929560661316秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.593456029892秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5939559936523秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5679531097412秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5684530735016秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5684530735016秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.568953037262秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.58895611763秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.58895611763秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5894560813904秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5899560451508秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5784540176392秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5789539813995秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5789539813995秒
+
+---2016-05-26 08:38:23--/index.php?m=test14&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5794539451599秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.608959197998秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.6094591617584秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.6099591255188秒
+
+---2016-05-26 08:38:23--/index.php?m=test13&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.6099591255188秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4419372081757秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.442437171936秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4429371356964秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4429371356964秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4459369182587秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.446436882019秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.446436882019秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4469380378723秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4289360046387秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.429435968399秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.429936170578秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4304361343384秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4544382095337秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4549381732941秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4554381370544秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4554381370544秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4539380073547秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4544389247894秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4549388885498秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4549388885498秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4559390544891秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4564390182495秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4569389820099秒
+
+---2016-05-26 08:38:27--/index.php?m=test15&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4569389820099秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4599390029907秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4604389667511秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4604389667511秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4609391689301秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4594390392303秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4594390392303秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4454379081726秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4599390029907秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4509379863739秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4604389667511秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.445937871933秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4514379501343秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4464378356934秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4464378356934秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4519379138947秒
+
+---2016-05-26 08:38:27--/index.php?m=test16&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.452437877655秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4094331264496秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4104330539703秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4104330539703秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4109330177307秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4129340648651秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4134340286255秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4134340286255秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4139339923859秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4349360466003秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4354360103607秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4354360103607秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4359359741211秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4174339771271秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4184339046478秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4189338684082秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4189338684082秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4239339828491秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4244349002838秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4244349002838秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4249348640442秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4564390182495秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4569389820099秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4574389457703秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4579391479492秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4599390029907秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4604389667511秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4609389305115秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4634399414062秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4609389305115秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4639399051666秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.464439868927秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4654400348663秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4604389667511秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4609389305115秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4614398479462秒
+
+---2016-05-26 08:38:30--/index.php?m=test17&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4619400501251秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4409370422363秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4414370059967秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4419369697571秒
+
+---2016-05-26 08:38:30--/index.php?m=test18&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4419369697571秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4029321670532秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4034321308136秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4034321308136秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.403932094574秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.372428894043秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3729288578033秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3729288578033秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3734288215637秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3984308242798秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3984308242798秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3989307880402秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3994309902191秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.417934179306秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.417934179306秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4184341430664秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4189341068268秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.421933889389秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4224338531494秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4229338169098秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4229338169098秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4264349937439秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4269349575043秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4269349575043秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4274351596832秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4304358959198秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4309358596802秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4309358596802秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4314358234406秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3984320163727秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3989319801331秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.399432182312秒
+
+---2016-05-26 08:38:34--/index.php?m=test2&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.399432182312秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.433935880661秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4344358444214秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4349358081818秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4349358081818秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.440437078476秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4414370059967秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4414370059967秒
+
+---2016-05-26 08:38:34--/index.php?m=test19&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4419369697571秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3447821140289秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3457820415497秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3457820415497秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3457820415497秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3892869949341秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3902878761292秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3902878761292秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3902878761292秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3642840385437秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3652839660645秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3652839660645秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3652839660645秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3827850818634秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3837850093842秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3837850093842秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3837850093842秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3677830696106秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3687829971313秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3687829971313秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3687829971313秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4047880172729秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4057879447937秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4057879447937秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4067878723145秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4192891120911秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4202890396118秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4202890396118秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4202890396118秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3907849788666秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3907849788666秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3917849063873秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3917849063873秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.434289932251秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.435290813446秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.435290813446秒
+
+---2016-05-26 08:38:37--/index.php?m=test20&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4362909793854秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4022870063782秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4022870063782秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4032869338989秒
+
+---2016-05-26 08:38:37--/index.php?m=test21&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4032869338989秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4491980075836秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4501979351044秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4501979351044秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4501979351044秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4641978740692秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.46519780159秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.46519780159秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.46519780159秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4581971168518秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4591970443726秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4591970443726秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4591970443726秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4711980819702秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4711980819702秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4711980819702秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4721989631653秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4881999492645秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4881999492645秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4891998767853秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4591979980469秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4891998767853秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4591979980469秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4601981639862秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4601981639862秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4601979255676秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4611978530884秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4611978530884秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4611978530884秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4831991195679秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4831991195679秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4841990470886秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4841990470886秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4791989326477秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.480199098587秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.480199098587秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4761991500854秒
+
+---2016-05-26 08:38:41--/index.php?m=test22&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.480199098587秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4771990776062秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4771990776062秒
+
+---2016-05-26 08:38:41--/index.php?m=test23&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4771990776062秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3401911258698秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3411910533905秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3721930980682秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3331909179688秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3411910533905秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3411910533905秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3341908454895秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3721930980682秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3741929531097秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3341908454895秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3351907730103秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3741929531097秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3751931190491秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3331911563873秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3761930465698秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3341910839081秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3341910839081秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3341910839081秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3381907939911秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3771929740906秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3781929016113秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3391909599304秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3391909599304秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3391909599304秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3591921329498秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3601920604706秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3601920604706秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3611919879913秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3441908359528秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3441908359528秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3451910018921秒
+
+---2016-05-26 08:38:44--/index.php?m=test25&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3451910018921秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3621919155121秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3621919155121秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.373193025589秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3631918430328秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3631918430328秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3741929531097秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3741929531097秒
+
+---2016-05-26 08:38:44--/index.php?m=test24&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3751931190491秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4549379348755秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4554390907288秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4559390544891秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4559390544891秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4514379501343秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4519381523132秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4524381160736秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4524381160736秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4699401855469秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4704411029816秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4709410667419秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4709410667419秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4764409065247秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4769418239594秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4769418239594秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4774420261383秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4864420890808秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4869420528412秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4874420166016秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4874420166016秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4794418811798秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4799420833588秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4799420833588秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4804420471191秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4924430847168秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4929430484772秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4934430122375秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4934430122375秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4769420623779秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4769420623779秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4774420261383秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4779419898987秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4764409065247秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.476940870285秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4774408340454秒
+
+---2016-05-26 08:38:48--/index.php?m=test27&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4779407978058秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5044441223145秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5049440860748秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5054440498352秒
+
+---2016-05-26 08:38:48--/index.php?m=test26&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5059449672699秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.454439163208秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4549391269684秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4549391269684秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4554390907288秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4574389457703秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.458438873291秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4589388370514秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4589388370514秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4464378356934秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4469380378723秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4474380016327秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4474380016327秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4399361610413秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.440437078476秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4409370422363秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4409370422363秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4739410877228秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4744410514832秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4749410152435秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4749410152435秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4584391117096秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.45893907547秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4594390392303秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4594390392303秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4834418296814秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4839420318604秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4844419956207秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4844419956207秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4699401855469秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4704401493073秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4709401130676秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4709401130676秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4879429340363秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4879429340363秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.465940952301秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4884428977966秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.465940952301秒
+
+---2016-05-26 08:38:51--/index.php?m=test28&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4889430999756秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.46644115448秒
+
+---2016-05-26 08:38:51--/index.php?m=test29&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4669411182404秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4399371147156秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.440437078476秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4409370422363秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4409370422363秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4504389762878秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4509389400482秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4514389038086秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4519391059875秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4664402008057秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.466940164566秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4674401283264秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4679400920868秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4749410152435秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4754409790039秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4759409427643秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4759409427643秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4814419746399秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4819419384003秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4819419384003秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4824419021606秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4824419021606秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.482941865921秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4834418296814秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4834418296814秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.476441860199秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4769420623779秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4774420261383秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4779419898987秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4779419898987秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4784419536591秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4784419536591秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4809420108795秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4789419174194秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4724409580231秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4814419746399秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.472941160202秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4819421768188秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4734411239624秒
+
+---2016-05-26 08:38:55--/index.php?m=test30&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4824421405792秒
+
+---2016-05-26 08:38:55--/index.php?m=test3&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4734411239624秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4679400920868秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4684400558472秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4684400558472秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4689400196075秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4789419174194秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4794418811798秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4799420833588秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4799420833588秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4819421768188秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4824421405792秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4824421405792秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4829421043396秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4904429912567秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4909429550171秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4914438724518秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4919438362122秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4819421768188秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4824421405792秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4829421043396秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4834420681秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4999439716339秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5004451274872秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5009450912476秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5014450550079秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.501944065094秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5024440288544秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5029439926147秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5029439926147秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5059449672699秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5064449310303秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5069451332092秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5074450969696秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4964439868927秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4969439506531秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4969439506531秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5194470882416秒
+
+---2016-05-26 08:38:58--/index.php?m=test5&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4974439144135秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.519947052002秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5204470157623秒
+
+---2016-05-26 08:38:58--/index.php?m=test4&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.5204470157623秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3567581176758秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3577580451965秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3577580451965秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3577580451965秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3767590522766秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3777589797974秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3777589797974秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3777589797974秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3607580661774秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3607580661774秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3617579936981秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3617579936981秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3932619094849秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3942618370056秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3942618370056秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3942618370056秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3697590827942秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3707590103149秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3707590103149秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3707590103149秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3807599544525秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3807599544525秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3817601203918秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3817601203918秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3852601051331秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3852601051331秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3862600326538秒
+
+---2016-05-26 08:39:02--/index.php?m=test7&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3862600326538秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3902599811554秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3902599811554秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3912599086761秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3912599086761秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4042620658875秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4052622318268秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4052622318268秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4052622318268秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4072618484497秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4072618484497秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.4072618484497秒
+
+---2016-05-26 08:39:02--/index.php?m=test6&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.408262014389秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3381910324097秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.339191198349秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3401911258698秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3401911258698秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3191900253296秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3201899528503秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3201899528503秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3201899528503秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3471920490265秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3481919765472秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3481919765472秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3481919765472秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3411908149719秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3421909809113秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3421909809113秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3421909809113秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3241899013519秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3251898288727秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3251898288727秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3251898288727秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3651919364929秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3651919364929秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3661921024323秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=default&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3661921024323秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3741929531097秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3751931190491秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3751931190491秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=add&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3761930465698秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3771929740906秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3781929016113秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3781929016113秒
+
+---2016-05-26 08:39:05--/index.php?m=test8&a=show&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3791930675507秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.367192029953秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3681919574738秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3451910018921秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3681919574738秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3451910018921秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=list&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3681919574738秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3461909294128秒
+
+---2016-05-26 08:39:05--/index.php?m=test9&a=my&id=123&catid=123&userid=123&skymvc_test_page_auto=123&token=1234&per_page=1--
+当前页面花费时间：3.3461909294128秒

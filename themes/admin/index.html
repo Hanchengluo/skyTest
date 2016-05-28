@@ -1,0 +1,23 @@
+<!DOCTYPE >
+<html>
+{include file="head.html"}
+<body>
+{include file="header.html"}
+<div class="main-body">
+    <div style="width:600px; text-align:center; margin: 0 auto; background-color:#C4E6A2; margin-top:100px; height:400px; line-height:40px; ">
+     
+    
+    {foreach item=w from=$who}
+    {$w}<br>
+    {/foreach}
+    
+    {$hook_indata}<br>
+    {$hook_redata}<br>
+    {$skins}
+    </div>
+
+</div>
+{include file="footer.html"}
+</body>
+
+</html>
