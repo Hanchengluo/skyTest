@@ -9,15 +9,22 @@
 </style>
 <div class="main-body">
      <div class="list">
-     	<a href="/index.php?m=test_mysql&a=autodelete" target="_blank">删除数据</a>
-        <a href="/index.php?m=test_mysql&a=reset" target="_blank">重置数据</a>
-        <a href="/index.php?m=test_mysql&a=AutoInsert" target="_blank">生成数据</a>
+     	<a class="gto" href="javascript:;" url="/index.php?m=test_mysql&a=autodelete" msg="确认删除数据吗"  >删除数据</a>
+        <a class="gto"  href="javascript:;" url="/index.php?m=test_mysql&a=reset" msg="确认重置吗" >重置数据</a>
+        <a class="gto" href="javascript:;" url="/index.php?m=test_mysql&a=AutoInsert" msg="确认生成数据吗">生成数据</a>
         
-        <a href="/index.php?m=test_page&a=start" target="_blank">页面测试</a>
+        <a class="gto" href="javascript:;" url="/index.php?m=test_page&a=start" msg="确认打开页面测试吗" >页面测试</a>
      </div>
      
 </div>
 {include file="footer.html"}
 </body>
-
+<script src="//cdn.bootcss.com/jquery/3.0.0-rc1/jquery.min.js"></script>
+<script>
+	$(document).on("click",".gto",function(e){
+		 if(confirm($(this).attr("msg"))){
+			 window.open($(this).attr("url"),"my","_blank");
+		 }
+	});
+</script>
 </html>
