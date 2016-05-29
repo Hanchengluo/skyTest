@@ -1,0 +1,59 @@
+
+大家好，我是雷大哥，欢迎大家观看skymvc的官方视频教程。
+
+本课程是针对skymvc框架的，如果大家要参加php付费授课的，可以加我QQ:362606856,PHP三月速成教学。
+
+官网：http://www.skymvc.com 
+
+今天给大家讲讲skyTest,这个是网站性能测试用的，主要有两部分：
+1。mysql数据生成
+2.页面测试
+
+配置说明：
+<?php
+define("TABLE_PRE","sky_");
+define("TESTAPP","skyshop");
+//每条sql插入多少行
+define("ONE_INSERT_ROWS",100);
+//每个页执行多少次
+define("ONE_MAXROW",30);
+//每次同时执行几个表
+define("MAXTHREADS",10);
+?>
+
+<?php
+//网站数据库配置
+$dbconfig["master"]=array(
+	"host"=>"192.168.128.146","user"=>"root","pwd"=>"123","database"=>"test"
+);
+/**表配置* 需要插入多少行数据*/
+$TABLE_ROW_NUM=array(
+	"article"=>10000,
+	"a2"=>500,
+);
+//只插入上面数据
+$TABLE_ONLY=false;
+//不操作的表
+$TABLE_NODO=array(
+	"a6",
+);
+/**默认行数**/
+$TABLE_ROW_DEFAULT="100";
+/***测试网址**/
+$TESTSITE="http://testshop.skymvc.com/index.php?";
+/***登录串***/
+$TESTTOKEN="12345";
+/****页面测试所带参数******/
+$TEST_PARA=array("id","catid","userid","order_id","skymvc_test_page_auto","starttime","endtime");
+/****页面的action*****/
+$TEST_ACTION=array("default","list","show","add","my");
+//每次删除行数
+$TEST_DEL_ROWS=10000;
+//非表页面
+$TEST_URLS=array(
+	"m=index",
+	"m=list",
+	"m=show",
+);
+
+?>

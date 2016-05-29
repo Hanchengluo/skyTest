@@ -1,0 +1,35 @@
+<?php
+$dbconfig["master"]=array(
+	"host"=>"192.168.128.146","user"=>"root","pwd"=>"123","database"=>"test"
+);
+/**表配置* 需要插入多少行数据*/
+$TABLE_ROW_NUM=array(
+	"article"=>10000,
+	"a2"=>500,
+);
+//只插入上面数据
+$TABLE_ONLY=false;
+//不操作的表
+$TABLE_NODO=array(
+	"a6",
+);
+/**默认行数**/
+$TABLE_ROW_DEFAULT="100";
+/***测试网址**/
+$TESTSITE="http://testshop.skymvc.com/index.php?";
+/***登录串***/
+$TESTTOKEN="12345";
+/****页面测试所带参数******/
+$TEST_PARA=array("id","catid","userid","order_id","skymvc_test_page_auto","starttime","endtime");
+/****页面的action*****/
+$TEST_ACTION=array("default","list","show","add","my");
+//每次删除行数
+$TEST_DEL_ROWS=10000;
+//非表页面
+$TEST_URLS=array(
+	"m=index",
+	"m=list",
+	"m=show",
+);
+
+?>

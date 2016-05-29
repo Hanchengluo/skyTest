@@ -4,9 +4,9 @@ define("MYSQL_CHARSET","utf8");
 define("TABLE_PRE","sky_");
 define("TESTAPP","skyshop");
 //每条sql插入多少行
-define("ONE_INSERT_ROWS",300);
+define("ONE_INSERT_ROWS",100);
 //每个页执行多少次
-define("ONE_MAXROW",300);
+define("ONE_MAXROW",30);
 //每次同时执行几个表
 define("MAXTHREADS",10);
  
